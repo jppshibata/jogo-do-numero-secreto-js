@@ -6,7 +6,7 @@
 
 * CSS
 
-*JavaScript
+* JavaScript
 
 ## Feito por:
 
